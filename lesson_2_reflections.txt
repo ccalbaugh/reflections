@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	.git files are also initialized to signify the repository status.  You need it to keep track of all commit histories of certain files/projects
